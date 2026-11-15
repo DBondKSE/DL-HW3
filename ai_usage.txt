@@ -1,0 +1,24 @@
+### Claude Code Opus 5.5, no links available:
+---
+
+[Context: All previous assignment notebooks, HW3 task definition]
+I have created the notebook for Deep Learning HW3. 
+I need your help with setting it up, based on previous assignments' work.
+For the EDA part of this assignment I need such things:
+ - Imports and data loading, by example of assignments 1-2
+ - Check for special symbols in the datasets
+ - Rate of LOC markers per row in datasets
+ - Check what words/sentences count as a location
+ - Other checks, but consult me before adding anything I didn't mention
+Avoid writing comments/markdown explanations for the results - the conclusions must be made by me
+
+---
+
+Extend the Metric analysis block with some code examples, put them right after the first code block in that section.
+Include previews of word normalization, and the usage of micro F1 score.
+
+---
+
+### Claude Code Fable 5.2:
+Responsible for setting up Colab environment, managing tests, retreiving and organizing results, images, scores etc.
+Helped with automating training cycles, building templates for Parts 3-4 and Readme based on previous assingments. 

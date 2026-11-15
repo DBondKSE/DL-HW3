@@ -1,0 +1,11 @@
+data/
+wandb/
+lightning_logs/
+checkpoints/
+*.ckpt
+*.bin
+*.vec
+*.vec.gz
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
